@@ -59,6 +59,8 @@ html{
     border-radius: 10px;
     cursor: pointer;
     transition: .4s;
+    color:white;
+    text-decoration:none;
 }
 .btn>i{
     margin-left: 10px;
